@@ -1,0 +1,30 @@
+SUPORTE DA YUUMILL
+
+MODERAÇÃO
+
+y!ban @PLAYER MOTIVO
+y!kick @PLAYER MOTIVO
+y!warn @PLAYER AVISOS
+y!clear [1 à 100]
+y!server-info
+
+MEMBROS
+
+y!avatar @PLAYER
+y!ping
+
+DIVERSÃO
+
+y!tapa @PLAYER
+y!abraço @PLAYER
+y!beijo @PLAYER
+y!roleta
+y!invite
+
+AJUDA
+
+y!help
+
+ADICIONAR BOT:
+
+https://discord.com/api/oauth2/authorize?client_id=8&permissions=2146958847&redirect_uri=https%3A%2F%2Fdiscord.gg%2F8TJhFdv&response_type=code&scope=identify%20email%20bot%20guilds
